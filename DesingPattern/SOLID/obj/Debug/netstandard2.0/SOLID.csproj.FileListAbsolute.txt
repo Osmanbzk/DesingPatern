@@ -1,0 +1,9 @@
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\bin\Debug\netstandard2.0\SOLID.deps.json
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\bin\Debug\netstandard2.0\SOLID.dll
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\bin\Debug\netstandard2.0\SOLID.pdb
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\obj\Debug\netstandard2.0\SOLID.csprojAssemblyReference.cache
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\obj\Debug\netstandard2.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\obj\Debug\netstandard2.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\obj\Debug\netstandard2.0\SOLID.AssemblyInfo.cs
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\obj\Debug\netstandard2.0\SOLID.dll
+C:\Users\Netix-2\source\repos\DesingPattern\SOLID\obj\Debug\netstandard2.0\SOLID.pdb

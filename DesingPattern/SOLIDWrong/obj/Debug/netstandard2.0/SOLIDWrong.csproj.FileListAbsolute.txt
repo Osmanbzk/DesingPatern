@@ -1,0 +1,12 @@
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\bin\Debug\netstandard2.0\SOLIDWrong.deps.json
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\bin\Debug\netstandard2.0\SOLIDWrong.dll
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\bin\Debug\netstandard2.0\SOLIDWrong.pdb
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\bin\Debug\netstandard2.0\SOLID.dll
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\bin\Debug\netstandard2.0\SOLID.pdb
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\obj\Debug\netstandard2.0\SOLIDWrong.csprojAssemblyReference.cache
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\obj\Debug\netstandard2.0\SOLIDWrong.csproj.CoreCompileInputs.cache
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\obj\Debug\netstandard2.0\SOLIDWrong.AssemblyInfoInputs.cache
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\obj\Debug\netstandard2.0\SOLIDWrong.AssemblyInfo.cs
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\obj\Debug\netstandard2.0\SOLIDWrong.csproj.CopyComplete
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\obj\Debug\netstandard2.0\SOLIDWrong.dll
+C:\Users\Netix-2\source\repos\DesingPattern\SOLIDWrong\obj\Debug\netstandard2.0\SOLIDWrong.pdb
